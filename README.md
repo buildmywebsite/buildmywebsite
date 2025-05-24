@@ -1,16 +1,16 @@
-## Hi there 👋
+🚀 Features
+Home Page – Engaging landing page introducing the agency and value proposition.
 
-<!--
-**buildmywebsite/buildmywebsite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Services – Overview of all the services we offer.
 
-Here are some ideas to get you started:
+Process – Step-by-step breakdown of how we work with clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Demos - Demo projects
+
+Pricing – Transparent pricing plans and packages.
+
+Contact – Contact form and details for inquiries and consultations.
+
+Responsive Design – Fully optimized for mobile, tablet, and desktop screens.
+
+Modern UI – Clean and professional design using modern front-end technologies.
