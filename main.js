@@ -114,9 +114,9 @@ const addData = () => {
 
 const addDemoSites = () => {
     const demoWork = document.getElementById('demo-work')
-    demoWork.innerHTML = demoSites.map(e => `
+    demoWork.innerHTML = demoSites.map((e, index) => `
             <div class="py-2">
-                <a href="${DEMOURL}?site=${e.url}" target="_blank">
+                <a href="${DEMOURL}?site=${index}" target="_blank">
                     <div class="overflow-hidden">
                     <img class="scale-100 hover:scale-125 transition-transform duration-300 ease-in-out" src="assets/${e.fname}" alt="${e.name}" >
                     </div>
